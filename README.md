@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 👋 I'm Ben Cheung, a Sophomore CS student at NYU Shanghai
+- 👋 I'm Ben Cheung, a Junior CS student at NYU
 - 🔭 Currently learning React, Next, and Three.js
 - 🔭 Also python :)
 
