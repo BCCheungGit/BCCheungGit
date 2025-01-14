@@ -1,7 +1,7 @@
 ### Hi there 👋
 - 👋 I'm Ben Cheung, a Junior CS student at NYU
 - 🔭 Currently learning React, Next, and Three.js
-- 🔭 Also python :)
+- 🔭 Python 😄
 
 <!--
 **BCCheungGit/BCCheungGit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
